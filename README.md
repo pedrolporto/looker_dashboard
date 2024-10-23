@@ -1,9 +1,16 @@
-# **README: Dashboard de Performance de Anúncios TikTok**
+# **Dashboard de Performance de Anúncios TikTok**
 
 ## **Visão Geral do Projeto**
 Este projeto apresenta um **Dashboard de Performance de Anúncios no TikTok** criado com o **Looker**. Ele foi desenvolvido para monitorar e otimizar a performance de uma campanha de anúncios para um aplicativo, em um período específico: **1 de agosto de 2022 a 31 de agosto de 2022**. Os insights derivados desse dashboard são cruciais para orientar decisões estratégicas sobre alocação de orçamento, ajustes criativos e otimização de segmentação.
 
-## **Resumo dos Principais Insights**
+### **Screenshot**
+
+![TikTok Ads Performance Report](./Screenshots/Ads_Dashboard_MyFitnessPal_TikTok_App_page-0001.jpg)
+
+## **Link para visualização online**
+https://lookerstudio.google.com/reporting/8c149722-dbb9-4108-ae74-fb2592aad548 
+
+## **Insights Principais **
 
 - **Impressões**: 38,4M ( ↑ 10,2%)
 - **Visualizações de Vídeo de 2 Segundos**: 11,8M ( ↑ 19,6%)
@@ -53,6 +60,12 @@ Este projeto apresenta um **Dashboard de Performance de Anúncios no TikTok** cr
 ## **Conclusão**
 Este dashboard fornece insights claros e acionáveis sobre a performance de campanhas de anúncios no TikTok. Ao analisar métricas-chave, como CPA, conversões e performance criativa, podemos otimizar os gastos com anúncios, ajustar estratégias criativas e, por fim, melhorar o retorno sobre investimento (ROI) da campanha. A apresentação visual dos dados neste dashboard do Looker facilita o entendimento das tendências complexas e permite que as partes interessadas tomem decisões informadas.
 
-### **Exemplo de Imagem do Dashboard**
+## Autor
+- [@pedrolporto](https://www.github.com/pedrolporto)
 
-![TikTok Ads Performance Report](./TikTok_Ads_Performance_Report.jpg)
+## Dados
+
+- Dados fornecidos pela DataTechFlorida.
+
+
+
