@@ -10,7 +10,7 @@ Este projeto apresenta um **Dashboard de Performance de Anúncios no TikTok** cr
 ## **Link para visualização online**
 https://lookerstudio.google.com/reporting/8c149722-dbb9-4108-ae74-fb2592aad548 
 
-## **Insights Principais **
+## **Insights Principais**
 
 - **Impressões**: 38,4M ( ↑ 10,2%)
 - **Visualizações de Vídeo de 2 Segundos**: 11,8M ( ↑ 19,6%)
